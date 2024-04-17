@@ -1,4 +1,4 @@
-# Pizzeria Reference Project (PizzaRP)
+# Pizzeria Reference Project (PizzaRP Local Copy)
 
 This is a minimal Pizzeria Reference Project (PizzaRP) as a template for students. 
 
